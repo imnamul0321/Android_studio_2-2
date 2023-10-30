@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id baseLayout
+id button1
+id itemBlue
+id itemGreen
+id itemRed
+id subRotate
+id subSize
+layout activity_main
+menu menu1
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.W9test
+style Theme.W9test
+xml backup_rules
+xml data_extraction_rules
